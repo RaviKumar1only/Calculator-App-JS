@@ -19,7 +19,6 @@ A simple and clean calculator web app built using **HTML**, **CSS**, and soon **
 
 ## 📁 Project Structure
 
-```bash
 calculator-app/
 │
 ├── index.html         # HTML layout of the calculator
@@ -35,7 +34,6 @@ calculator-app/
 - 🐦 [Twitter](https://www.twitter.com/ravikumar1only)
 - 📸 [Instagram](https://www.instagram.com/ravikumar1only)
 - 📘 [Facebook](https://www.facebook.com/ravikumar1only)
-
 ---
 
 ## ⭐️ Star this repo
